@@ -20,7 +20,9 @@ The ipynb file contains code for a Movie Review Sentiment Analysis using RandomF
 5. training and prediction - training the model and making predictions
 
 ## 3. Installation
- present within the notebook
+ present within the notebook, 
+ Dataset (Starter: Movie Review Dataset b0c5dbc5-c) can be downloaded from here - https://www.kaggle.com/code/kerneler/starter-movie-review-dataset-b0c5dbc5-c 
+ 
 
 ## 4. Usage
 You're probably better off without this classifier🙂, Use a pre-trained LLM and finetune it for much much better results. This is just something I did to really understand the intricacies and differences between deep learning and traditional machine learning, if u say dl is ml then, maybe just to see how much better neural networks really are.
